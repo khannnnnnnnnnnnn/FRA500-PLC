@@ -64,5 +64,5 @@ Each system includes:
 
 ---
 
-**Course**: FRA500 - Factory Automation  
-**Academic Year**: 2568 (2024-2025)
+**Course**: FRA500 - PLC
+**Academic Year**: 2025
